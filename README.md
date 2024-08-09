@@ -23,12 +23,6 @@ Whatsapp Web Clone é um projeto frontend que replica a interface do usuário do
 
 ## Como Usar
 
-1. Clone o repositório para sua máquina local:
-    ```bash
-    git clone https://github.com/seu-usuario/whatsapp-web-clone.git
-    ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd whatsapp-web-clone
-    ```
+1. Clone o repositório para sua máquina local
+2. Navegue até o diretório do projeto
 3. Abra o arquivo `index.html` em seu navegador de escolha.
